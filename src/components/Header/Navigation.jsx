@@ -1,11 +1,13 @@
 import React from 'react';
 import { UilUser } from '@iconscout/react-unicons';
 import { UilFileSearchAlt } from '@iconscout/react-unicons';
+
+import default_logo from '../../assets/images/default_logo.png';
 function Navigation() {
   return (
     <header className="nav-header">
       <nav className="navbar">
-        <img src="" alt="" id="logo" />
+        <img src={default_logo} alt="img" id="dnn_logo" />
         <div className="location-bar">
           <div id="location">
             <button>Location</button>
