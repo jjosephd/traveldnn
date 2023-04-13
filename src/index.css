@@ -85,6 +85,10 @@ html, body {
   font-size: 16px;
   color: black;
 }
+#location-input{
+  width: 2rem;
+  
+}
 
 #icon-wrap{
   width: 30px;

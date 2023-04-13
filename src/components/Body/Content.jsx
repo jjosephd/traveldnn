@@ -27,7 +27,7 @@ function Content() {
                 <ContentIndex imgUrl={img2} text="Adventure" />
               </td>
               <td>
-                <ContentIndex imgUrl={img3} text="Tropical" />
+                <ContentIndex imgUrl={img3} text="International" />
               </td>
               <td>
                 <ContentIndex imgUrl={img4} />
